@@ -46,7 +46,9 @@ Computer Science student at the Federal University of Campina Grande (UFCG) with
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=limajoaohs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=limajoaohs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="limajoaohs trophies" />
+  </a>
 </div>
 ---
 
