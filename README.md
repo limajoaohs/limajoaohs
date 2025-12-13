@@ -45,11 +45,6 @@ Computer Science student at the Federal University of Campina Grande (UFCG) with
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=limajoaohs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="limajoaohs trophies" />
-  </a>
-</div>
 ---
 
 ### Activity Graph
