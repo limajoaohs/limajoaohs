@@ -47,7 +47,3 @@ Computer Science student at the Federal University of Campina Grande (UFCG) with
 
 ---
 
-### Activity Graph
-<div align="center">
-  <img src="https://raw.githubusercontent.com/limajoaohs/limajoaohs/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
