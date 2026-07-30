@@ -14,11 +14,11 @@
 
 Computer Science student at the Federal University of Campina Grande (UFCG) focused on software engineering, back-end development, and data orchestration workflows.
 
-- 🔭 Developing decoupled, typed backend architectures and semantic search applications.
-- ✅ Recent implementations include a state-based Agentic RAG pipeline using LangGraph and an enterprise-pattern Java/Spring Boot REST API.
-- 🎓 Computer Science Undergraduate at UFCG.
-- 🤔 Focus areas: Machine Learning, Data Engineering, Agentic Workflows, and Algorithm Analysis.
-- 📫 **Contact:** [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/limajoaohs/)
+- Developing decoupled, typed backend architectures and semantic search applications.
+- Recent implementations include a state-based Agentic RAG pipeline using LangGraph and an enterprise-pattern Java/Spring Boot REST API.
+- Computer Science Undergraduate at UFCG.
+- Focus areas: Machine Learning, Data Engineering, Agentic Workflows, and Algorithm Analysis.
+- **Contact:** [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/limajoaohs/)
 
 ---
 
